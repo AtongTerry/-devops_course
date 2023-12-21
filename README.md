@@ -1,2 +1,2 @@
-# -devops_course
+# devops_course
 For DevOps course
